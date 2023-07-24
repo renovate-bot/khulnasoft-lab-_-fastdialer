@@ -35,12 +35,12 @@ github.com/google/go-github/v50 v50.1.0/go.mod h1:Ev4Tre8QoKiolvbpOSG3FIi4Mlon3S
 github.com/google/go-querystring v1.1.0/go.mod h1:Kcdr2DB4koayq7X8pmAG4sNG59So17icRSOU623lUBU=
 github.com/gorilla/css v1.0.0 h1:BQqNyPTi50JCFMTw/b67hByjMVXZRwGha6wxVGkeihY=
 github.com/gorilla/css v1.0.0/go.mod h1:Dn721qIggHpt4+EFCcTLTU/vk5ySda2ReITrtgBl60c=
-github.com/hashicorp/golang-lru/v2 v2.0.2 h1:Dwmkdr5Nc/oBiXgJS3CDHNhJtIHkuZ3DZF5twqnfBdU=
+github.com/hashicorp/golang-lru/v2 v2.0.4 h1:7GHuZcgid37q8o5i3QI9KMT4nCWQQ3Kx3Ov6bb9MfK0=
 github.com/hpcloud/tail v1.0.0/go.mod h1:ab1qPbhIpdTxEkNHXyeSf5vhxWSCs/tWer42PpOxQnU=
 github.com/khulnasoft-labs/blackrock v0.0.1 h1:OregZG5g7T1dbVUdMTAXPSJxoPwlTNRCYWYmZjRcC+Q=
 github.com/khulnasoft-labs/blackrock v0.0.1/go.mod h1:Z64NkcwdfL17Ej99uBn70341QIXbKm0dmV/J5ExT0TE=
-github.com/khulnasoft-labs/hmap v0.0.13 h1:Q4CQATvo7LQe005oElnE2LwXRjviDsAPqPV+v0FUxFA=
-github.com/khulnasoft-labs/hmap v0.0.13/go.mod h1:w9QmHMZJhN0sg4muzODUzXKt7rfPVOsbR5DMnHSg2II=
+github.com/khulnasoft-labs/hmap v0.0.14 h1:G9EsQY20Ttua4XrooP33LO+odkvaH3x4naYFEnAXEhI=
+github.com/khulnasoft-labs/hmap v0.0.14/go.mod h1:pEgEU8ypqNDSp4YnEepJeWunPKeH55j3yXbBUC/QqpM=
 github.com/khulnasoft-labs/networkpolicy v0.0.6 h1:g8CLIcIczFjXSwoUtMtY6QRaBPFZo/HNUcGLd0zZRB8=
 github.com/khulnasoft-labs/networkpolicy v0.0.6/go.mod h1:wIkzSBwqfZMavDgIzSJZp7TiUic5PA4V7fXgR07rXwo=
 github.com/khulnasoft-labs/retryabledns v0.0.0-20230722104401-745c1d25618e h1:hgdtqOblqeHfuTjmXbINd8zlbNTDiW/2hZoyGxKXiKE=
