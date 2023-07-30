@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/dimchansky/utfbom v1.1.1
-	github.com/khulnasoft-labs/hmap v0.0.13
+	github.com/khulnasoft-labs/hmap v0.0.14
 	github.com/khulnasoft-labs/networkpolicy v0.0.6
 	github.com/khulnasoft-labs/retryabledns v0.0.0-20230722104401-745c1d25618e
 	github.com/khulnasoft-labs/utils v0.0.45
