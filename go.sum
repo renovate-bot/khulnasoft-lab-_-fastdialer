@@ -7,8 +7,8 @@ github.com/asaskevich/govalidator v0.0.0-20210307081110-f21760c49a8d h1:Byv0BzEl
 github.com/asaskevich/govalidator v0.0.0-20210307081110-f21760c49a8d/go.mod h1:WaHUgvxTVq04UNunO+XhnAqY/wQc+bxr74GqbsZ/Jqw=
 github.com/aymerick/douceur v0.2.0 h1:Mv+mAeH1Q+n9Fr+oyamOlAkUNPWPlA8PPGR0QAaYuPk=
 github.com/aymerick/douceur v0.2.0/go.mod h1:wlT5vV2O3h55X9m7iVYN0TBM0NH/MmbLnd30/FjWUq4=
-github.com/bits-and-blooms/bitset v1.3.1 h1:y+qrlmq3XsWi+xZqSaueaE8ry8Y127iMxlMfqcK8p0g=
-github.com/bits-and-blooms/bloom/v3 v3.4.0 h1:9zesenPR5M3SLIJ/esQ84o1eSVFY5Rw5d+pa1tiXQNA=
+github.com/bits-and-blooms/bitset v1.8.0 h1:FD+XqgOZDUxxZ8hzoBFuV9+cGWY9CslN6d5MS5JVb4c=
+github.com/bits-and-blooms/bloom/v3 v3.5.0 h1:AKDvi1V3xJCmSR6QhcBfHbCN4Vf8FfxeWkMNQfmAGhY=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
@@ -39,8 +39,8 @@ github.com/hashicorp/golang-lru/v2 v2.0.4 h1:7GHuZcgid37q8o5i3QI9KMT4nCWQQ3Kx3Ov
 github.com/hpcloud/tail v1.0.0/go.mod h1:ab1qPbhIpdTxEkNHXyeSf5vhxWSCs/tWer42PpOxQnU=
 github.com/khulnasoft-labs/blackrock v0.0.1 h1:OregZG5g7T1dbVUdMTAXPSJxoPwlTNRCYWYmZjRcC+Q=
 github.com/khulnasoft-labs/blackrock v0.0.1/go.mod h1:Z64NkcwdfL17Ej99uBn70341QIXbKm0dmV/J5ExT0TE=
-github.com/khulnasoft-labs/hmap v0.0.14 h1:G9EsQY20Ttua4XrooP33LO+odkvaH3x4naYFEnAXEhI=
-github.com/khulnasoft-labs/hmap v0.0.14/go.mod h1:pEgEU8ypqNDSp4YnEepJeWunPKeH55j3yXbBUC/QqpM=
+github.com/khulnasoft-labs/hmap v0.0.15 h1:marKVrgRtrvGWcfo/jDnc8xCAgWnjn0ZxpUSezLWQK4=
+github.com/khulnasoft-labs/hmap v0.0.15/go.mod h1:Sgi20eDVUJVbO/h/zs2ycnIZIHMeR3bw7qbdX7+HAlU=
 github.com/khulnasoft-labs/networkpolicy v0.0.6 h1:g8CLIcIczFjXSwoUtMtY6QRaBPFZo/HNUcGLd0zZRB8=
 github.com/khulnasoft-labs/networkpolicy v0.0.6/go.mod h1:wIkzSBwqfZMavDgIzSJZp7TiUic5PA4V7fXgR07rXwo=
 github.com/khulnasoft-labs/retryabledns v0.0.0-20230722104401-745c1d25618e h1:hgdtqOblqeHfuTjmXbINd8zlbNTDiW/2hZoyGxKXiKE=
