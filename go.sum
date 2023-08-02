@@ -41,8 +41,8 @@ github.com/khulnasoft-labs/blackrock v0.0.1 h1:OregZG5g7T1dbVUdMTAXPSJxoPwlTNRCY
 github.com/khulnasoft-labs/blackrock v0.0.1/go.mod h1:Z64NkcwdfL17Ej99uBn70341QIXbKm0dmV/J5ExT0TE=
 github.com/khulnasoft-labs/hmap v0.0.15 h1:marKVrgRtrvGWcfo/jDnc8xCAgWnjn0ZxpUSezLWQK4=
 github.com/khulnasoft-labs/hmap v0.0.15/go.mod h1:Sgi20eDVUJVbO/h/zs2ycnIZIHMeR3bw7qbdX7+HAlU=
-github.com/khulnasoft-labs/networkpolicy v0.0.6 h1:g8CLIcIczFjXSwoUtMtY6QRaBPFZo/HNUcGLd0zZRB8=
-github.com/khulnasoft-labs/networkpolicy v0.0.6/go.mod h1:wIkzSBwqfZMavDgIzSJZp7TiUic5PA4V7fXgR07rXwo=
+github.com/khulnasoft-labs/networkpolicy v0.0.7 h1:SGbp2pw/YeJd1Q9K/yTQ1EBjbQx0Xv2blEZGlwADzvs=
+github.com/khulnasoft-labs/networkpolicy v0.0.7/go.mod h1:wIkzSBwqfZMavDgIzSJZp7TiUic5PA4V7fXgR07rXwo=
 github.com/khulnasoft-labs/retryabledns v0.0.0-20230722104401-745c1d25618e h1:hgdtqOblqeHfuTjmXbINd8zlbNTDiW/2hZoyGxKXiKE=
 github.com/khulnasoft-labs/retryabledns v0.0.0-20230722104401-745c1d25618e/go.mod h1:/F+cpN1Yey9K7eO21gtDBcGv7a4CtZuXw2uVs2WKYfk=
 github.com/khulnasoft-labs/utils v0.0.45 h1:27tqzQqwMWN4mVw18oexYzejfNW8/ApENWHFwawCNmY=
