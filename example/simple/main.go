@@ -24,7 +24,7 @@ func main() {
 
 	ctx := context.Background()
 
-	target := "www.khulnasoft.com"
+	target := "www.projectdiscovery.io"
 
 	conn, err := fd.DialTLS(ctx, "tcp", target+":443")
 	if err != nil || conn == nil {

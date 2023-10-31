@@ -36,13 +36,13 @@ func testDialer(t *testing.T, options Options) {
 
 	// valid resolution + cache
 	ctx := context.Background()
-	conn, err := fd.Dial(ctx, "tcp", "www.khulnasoft.com:80")
+	conn, err := fd.Dial(ctx, "tcp", "www.projectdiscovery.io:80")
 	if err != nil || conn == nil {
 		t.Errorf("couldn't connect to target: %s", err)
 	}
 	conn.Close()
 	// retrieve cached data
-	data, err := fd.GetDNSData("www.khulnasoft.com")
+	data, err := fd.GetDNSData("www.projectdiscovery.io")
 	if err != nil || data == nil {
 		t.Errorf("couldn't retrieve dns data: %s", err)
 	}

@@ -25,7 +25,7 @@ func main() {
 
 	ctx := context.Background()
 
-	target := "www.khulnasoft.com"
+	target := "www.projectdiscovery.io"
 
 	conn, err := fd.DialTLSWithConfigImpersonate(ctx, "tcp", target+":443", &tls.Config{InsecureSkipVerify: true}, impersonate.Random, nil)
 	if err != nil || conn == nil {
