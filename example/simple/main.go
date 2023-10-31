@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/khulnasoft-labs/fastdialer/fastdialer"
+	"github.com/khulnasoft-lab/fastdialer/fastdialer"
 )
 
 func main() {
@@ -24,7 +24,7 @@ func main() {
 
 	ctx := context.Background()
 
-	target := "www.khulnasoft-labs.io"
+	target := "www.khulnasoft.com"
 
 	conn, err := fd.DialTLS(ctx, "tcp", target+":443")
 	if err != nil || conn == nil {

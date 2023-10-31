@@ -8,8 +8,8 @@ import (
 	"strings"
 
 	"github.com/dimchansky/utfbom"
-	"github.com/khulnasoft-labs/hmap/store/hybrid"
-	"github.com/khulnasoft-labs/retryabledns"
+	"github.com/khulnasoft-lab/hmap/store/hybrid"
+	"github.com/khulnasoft-lab/retryabledns"
 )
 
 func loadHostsFile(hm *hybrid.HybridMap) error {

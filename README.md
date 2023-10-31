@@ -1,10 +1,10 @@
 # Fastdialer
 
-[![License](https://img.shields.io/github/license/khulnasoft-labs/fastdialer)](LICENSE.md)
-![Go version](https://img.shields.io/github/go-mod/go-version/khulnasoft-labs/fastdialer?filename=go.mod)
-[![Release](https://img.shields.io/github/release/khulnasoft-labs/fastdialer)](https://github.com/khulnasoft-labs/fastdialer/releases/)
-[![Checks](https://github.com/khulnasoft-labs/fastdialer/actions/workflows/build-test.yml/badge.svg)](https://github.com/khulnasoft-labs/fastdialer/actions/workflows/build-test.yml)
-[![GoDoc](https://pkg.go.dev/badge/khulnasoft-labs/fastdialer)](https://pkg.go.dev/github.com/khulnasoft-labs/fastdialer/fastdialer)
+[![License](https://img.shields.io/github/license/khulnasoft-lab/fastdialer)](LICENSE.md)
+![Go version](https://img.shields.io/github/go-mod/go-version/khulnasoft-lab/fastdialer?filename=go.mod)
+[![Release](https://img.shields.io/github/release/khulnasoft-lab/fastdialer)](https://github.com/khulnasoft-lab/fastdialer/releases/)
+[![Checks](https://github.com/khulnasoft-lab/fastdialer/actions/workflows/build-test.yml/badge.svg)](https://github.com/khulnasoft-lab/fastdialer/actions/workflows/build-test.yml)
+[![GoDoc](https://pkg.go.dev/badge/khulnasoft-lab/fastdialer)](https://pkg.go.dev/github.com/khulnasoft-lab/fastdialer/fastdialer)
 
 
 Fastdialer is implementation of `net.Dialer` with lot of features like DNS Cache , Dial History etc
@@ -18,7 +18,7 @@ Fastdialer is implementation of `net.Dialer` with lot of features like DNS Cache
 - Supports Resolution Using Hosts File
 - Cross Platform and more..
 
-For more details and documentation refer [GoDoc](https://pkg.go.dev/github.com/khulnasoft-labs/fastdialer/fastdialer).
+For more details and documentation refer [GoDoc](https://pkg.go.dev/github.com/khulnasoft-lab/fastdialer/fastdialer).
 
 
 ### ZTLS Fallback

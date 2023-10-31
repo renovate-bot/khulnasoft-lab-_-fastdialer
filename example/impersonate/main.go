@@ -5,8 +5,8 @@ import (
 	"crypto/tls"
 	"log"
 
-	"github.com/khulnasoft-labs/fastdialer/fastdialer"
-	"github.com/khulnasoft-labs/fastdialer/fastdialer/ja3/impersonate"
+	"github.com/khulnasoft-lab/fastdialer/fastdialer"
+	"github.com/khulnasoft-lab/fastdialer/fastdialer/ja3/impersonate"
 )
 
 func main() {
@@ -25,7 +25,7 @@ func main() {
 
 	ctx := context.Background()
 
-	target := "www.khulnasoft-labs.io"
+	target := "www.khulnasoft.com"
 
 	conn, err := fd.DialTLSWithConfigImpersonate(ctx, "tcp", target+":443", &tls.Config{InsecureSkipVerify: true}, impersonate.Random, nil)
 	if err != nil || conn == nil {
