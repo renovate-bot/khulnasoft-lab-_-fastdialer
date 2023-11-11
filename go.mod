@@ -6,7 +6,7 @@ require (
 	github.com/dimchansky/utfbom v1.1.1
 	github.com/khulnasoft-lab/hmap v0.0.17
 	github.com/khulnasoft-lab/networkpolicy v0.0.8
-	github.com/khulnasoft-lab/retryabledns v1.0.32
+	github.com/khulnasoft-lab/retryabledns v1.0.34
 	github.com/khulnasoft-lab/utils v0.0.47
 	github.com/pkg/errors v0.9.1
 	github.com/refraction-networking/utls v1.5.4
