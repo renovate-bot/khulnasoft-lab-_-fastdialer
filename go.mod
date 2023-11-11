@@ -12,7 +12,7 @@ require (
 	github.com/refraction-networking/utls v1.5.4
 	github.com/stretchr/testify v1.8.4
 	github.com/ulule/deepcopier v0.0.0-20200430083143-45decc6639b6
-	github.com/zmap/zcrypto v0.0.0-20231018155041-c1c1128be414
+	github.com/zmap/zcrypto v0.0.0-20231106212110-94c8f62efae4
 	golang.org/x/exp v0.0.0-20231110203233-9a3e6036ecaa
 	golang.org/x/net v0.18.0
 )
