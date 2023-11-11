@@ -57,6 +57,8 @@ github.com/khulnasoft-lab/networkpolicy v0.0.8 h1:cffnusotb0FPwNu3PlwgbRrSQIb92d
 github.com/khulnasoft-lab/networkpolicy v0.0.8/go.mod h1:USkMxdzuPAKkGvV9nnxNp7kBEhbcIVT4OBCnWVRFOXQ=
 github.com/khulnasoft-lab/retryabledns v1.0.32 h1:wrhvirSzLSToVUYd7KeS2aRfbYHDrFPRyY6UDUfMkD0=
 github.com/khulnasoft-lab/retryabledns v1.0.32/go.mod h1:9AGRgmunHMzv6OmrfGS8YrgoHpc8DjjdT4S6XqV4Sbk=
+github.com/khulnasoft-lab/retryabledns v1.0.34 h1:pGbbcCyV8GsWLGVcMoXs7UqVxtBoziOYwOzFyP4wCOU=
+github.com/khulnasoft-lab/retryabledns v1.0.34/go.mod h1:OiLtjrTnCspzuD7wjMLJ6TmgeE1hCSGg8chsImD1Vnc=
 github.com/khulnasoft-lab/utils v0.0.46 h1:Hp/LQV8Hf/p2+xh5j4bOlO9TB652YZQGOc9UTJOp1vw=
 github.com/khulnasoft-lab/utils v0.0.46/go.mod h1:IeqfAsT15I7KccLjpPTtyPmQ/LhAZnJ9UWZiPBPRnQs=
 github.com/khulnasoft-lab/utils v0.0.47 h1:ILZWJ5mS696XnQC4vuizNnYZAf9sd9ZY4xuST8y8dtY=
