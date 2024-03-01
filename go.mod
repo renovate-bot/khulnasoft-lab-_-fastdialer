@@ -10,7 +10,7 @@ require (
 	github.com/khulnasoft-lab/utils v0.0.47
 	github.com/pkg/errors v0.9.1
 	github.com/refraction-networking/utls v1.6.2
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.9.0
 	github.com/ulule/deepcopier v0.0.0-20200430083143-45decc6639b6
 	github.com/zmap/zcrypto v0.0.0-20231219022726-a1f61fb1661c
 	golang.org/x/exp v0.0.0-20231110203233-9a3e6036ecaa
