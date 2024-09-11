@@ -1,6 +1,8 @@
 module github.com/khulnasoft-lab/fastdialer
 
-go 1.20
+go 1.21
+
+toolchain go1.23.1
 
 require (
 	github.com/dimchansky/utfbom v1.1.1
@@ -9,12 +11,12 @@ require (
 	github.com/khulnasoft-lab/retryabledns v1.0.34
 	github.com/khulnasoft-lab/utils v0.0.47
 	github.com/pkg/errors v0.9.1
-	github.com/refraction-networking/utls v1.6.2
+	github.com/refraction-networking/utls v1.6.7
 	github.com/stretchr/testify v1.8.4
 	github.com/ulule/deepcopier v0.0.0-20200430083143-45decc6639b6
 	github.com/zmap/zcrypto v0.0.0-20231219022726-a1f61fb1661c
 	golang.org/x/exp v0.0.0-20231110203233-9a3e6036ecaa
-	golang.org/x/net v0.20.0
+	golang.org/x/net v0.23.0
 )
 
 require (
@@ -49,9 +51,9 @@ require (
 	github.com/zmap/rc2 v0.0.0-20190804163417-abaa70531248 // indirect
 	go.etcd.io/bbolt v1.3.7 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
-	golang.org/x/crypto v0.18.0 // indirect
+	golang.org/x/crypto v0.21.0 // indirect
 	golang.org/x/mod v0.14.0 // indirect
-	golang.org/x/sys v0.16.0 // indirect
+	golang.org/x/sys v0.18.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
 	golang.org/x/tools v0.15.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
